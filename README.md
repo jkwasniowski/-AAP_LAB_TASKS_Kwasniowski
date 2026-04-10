@@ -1,0 +1,2 @@
+# -AAP_LAB_TASKS_Kwasniowski
+Zadania_z_przedmiotu_Architektura_aplikacji_w_Pythonie 
